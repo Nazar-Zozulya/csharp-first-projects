@@ -1,0 +1,14 @@
+c:\Users\nazar\Desktop\lesson4\bin\Debug\net9.0\Desktop.exe
+C:\Users\nazar\Desktop\lesson4\bin\Debug\net9.0\Desktop.deps.json
+C:\Users\nazar\Desktop\lesson4\bin\Debug\net9.0\Desktop.runtimeconfig.json
+c:\Users\nazar\Desktop\lesson4\bin\Debug\net9.0\Desktop.dll
+c:\Users\nazar\Desktop\lesson4\bin\Debug\net9.0\Desktop.pdb
+c:\Users\nazar\Desktop\lesson4\obj\Debug\net9.0\Desktop.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\nazar\Desktop\lesson4\obj\Debug\net9.0\Desktop.AssemblyInfoInputs.cache
+c:\Users\nazar\Desktop\lesson4\obj\Debug\net9.0\Desktop.AssemblyInfo.cs
+c:\Users\nazar\Desktop\lesson4\obj\Debug\net9.0\Desktop.csproj.CoreCompileInputs.cache
+c:\Users\nazar\Desktop\lesson4\obj\Debug\net9.0\Desktop.dll
+c:\Users\nazar\Desktop\lesson4\obj\Debug\net9.0\refint\Desktop.dll
+c:\Users\nazar\Desktop\lesson4\obj\Debug\net9.0\Desktop.pdb
+C:\Users\nazar\Desktop\lesson4\obj\Debug\net9.0\Desktop.genruntimeconfig.cache
+C:\Users\nazar\Desktop\lesson4\obj\Debug\net9.0\ref\Desktop.dll
